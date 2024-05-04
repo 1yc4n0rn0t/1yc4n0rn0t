@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
+
+
 
 **1yc4n0rn0t/1yc4n0rn0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
