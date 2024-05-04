@@ -24,7 +24,7 @@ About Me:
   </a>
 </p>
 
-### 🤖 Projects I want you to see
+### 🤖 Projects 
 
 - **Sintbox:** [sintbox](https://github.com/1yc4n0rn0t/sintbox)
 - **ShogunOS:** [shogunOS](https://github.com/1yc4n0rn0t/shogunOS)
