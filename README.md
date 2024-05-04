@@ -31,3 +31,6 @@ About Me:
 - **My Raspberrypi Build:** [DarthWRT](https://github.com/1yc4n0rn0t/DarthWRT)
 - **Web Scanner** [access](https://github.com/1yc4n0rn0t/access)
 - **Web Enumeration** [Maginify](https://github.com/1yc4n0rn0t/magnify)
+- **The Hacker Lounge:** [Langing Page](https://github.com/1yc4n0rn0t/THLLP)
+
+![1yc4n0rn0t' GitHub Stats](https://github-readme-stats.vercel.app/api?username=1yc4n0rn0t&show_icons=true&theme=radical)
