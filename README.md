@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://profile-counter.glitch.me/l0g-lab/count.svg">
+  <img src="https://github.com/1yc4n0rn0t/1yc4n0rn0t/blob/main/lycan.jpg">
 </p>
 
 <p align="center">
-  <img src="https://github.com/1yc4n0rn0t/1yc4n0rn0t/blob/main/lycan.jpg">
+  <img src="https://profile-counter.glitch.me/l0g-lab/count.svg">
 </p>
 
 <img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
