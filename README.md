@@ -24,7 +24,7 @@ About Me:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,docker,python,linux,proxmox,lxc,arch,kali,ubuntu,raspberrypi,windows," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,docker,python,linux,arch,kali,ubuntu,raspberrypi,windows," />
   </a>
 </p>
 
