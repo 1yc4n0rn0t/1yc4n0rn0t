@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://profile-counter.glitch.me/l0g-lab/count.svg">
+</p>
+
+<p align="center">
   <img src="https://github.com/1yc4n0rn0t/1yc4n0rn0t/blob/main/lycan.jpg">
 </p>
 
