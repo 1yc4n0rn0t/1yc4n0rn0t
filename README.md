@@ -41,8 +41,8 @@ About Me:
 
 ### 🤖 Projects 
 
-- 🔎 **Sintbox:** [sintbox](https://github.com/1yc4n0rn0t/sintbox)
--  🥷 **ShogunOS:** [shogunOS](https://github.com/1yc4n0rn0t/shogunOS)
+-  🔎 **Sintbox:** [sintbox](https://github.com/1yc4n0rn0t/sintbox)
+-  🐱‍👤 **ShogunOS:** [shogunOS](https://github.com/1yc4n0rn0t/shogunOS)
 -  🥧 **My Raspberrypi Build:** [DarthWRT](https://github.com/1yc4n0rn0t/DarthWRT)
 -  🕸️**Web Scanner** [access](https://github.com/1yc4n0rn0t/access)
 -  🕵️ **Web Enumeration** [Maginify](https://github.com/1yc4n0rn0t/magnify)
