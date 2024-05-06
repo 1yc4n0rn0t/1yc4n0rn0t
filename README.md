@@ -39,7 +39,7 @@ About Me:
   </a>
 </p>
 
-### 🤖 Projects 
+### ⚗️ Projects 
 
 -  🔎 **Sintbox:** [sintbox](https://github.com/1yc4n0rn0t/sintbox)
 -  🐱‍👤 **ShogunOS:** [shogunOS](https://github.com/1yc4n0rn0t/shogunOS)
@@ -47,6 +47,15 @@ About Me:
 -  🕸️**Web Scanner** [access](https://github.com/1yc4n0rn0t/access)
 -  🕵️ **Web Enumeration** [Maginify](https://github.com/1yc4n0rn0t/magnify)
 -  💻 **The Hacker Lounge:** [Langing Page](https://github.com/1yc4n0rn0t/THLLP)
+
+
+### 👍 Interests 
+
+- 🚀 **Science**
+- 🌌 **Space**
+- 🧮 **Code**
+- 📗 **Books**
+
 
   ---
 
