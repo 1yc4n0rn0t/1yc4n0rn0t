@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/l0g-lab/count.svg">
+  <img src="https://profile-counter.glitch.me/1yc4n0rn0t/count.svg">
 </p>
 
 <img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
