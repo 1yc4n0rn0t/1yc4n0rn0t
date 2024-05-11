@@ -41,9 +41,7 @@ About Me:
 
 ## Languages and Tools
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=percieve+that+which+cannot+be+seen" alt="Typing SVG" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=29F718&random=false&width=435&lines=perceive+that+which+cannot+be+seen)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://skillicons.dev">
