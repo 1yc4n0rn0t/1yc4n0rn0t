@@ -67,4 +67,4 @@ About Me:
 
   ---
 
-![1yc4n0rn0t' GitHub Stats](https://github-readme-stats.vercel.app/api?username=1yc4n0rn0t&show_icons=true&theme=shadow_green)
+![1yc4n0rn0t' GitHub Stats](https://github-readme-stats.vercel.app/api?username=1yc4n0rn0t&show_icons=true&theme=blue_green)
