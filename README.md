@@ -71,8 +71,5 @@ About Me:
 
 ![1yc4n0rn0t' GitHub Stats](https://github-readme-stats.vercel.app/api?username=1yc4n0rn0t&show_icons=true&theme=blue-green)
 <img align="left" height="195vh"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=1yc4n0rn0t&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
-
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kushed3d&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=1yc4n0rn0t&theme=hacker&hide_border=true)](https://git.io/streak-stats)
 
