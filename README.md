@@ -11,8 +11,9 @@
   <img src="https://profile-counter.glitch.me/1yc4n0rn0t/count.svg">
 </p>
 
+<p align="center"> 
 <img src="https://tryhackme-badges.s3.amazonaws.com/1yc4n0rn0t.png" alt="TryHackMe">
-
+</p>
 
 
 <img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
