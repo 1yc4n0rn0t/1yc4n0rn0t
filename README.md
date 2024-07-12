@@ -6,15 +6,6 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/1yc4n0rn0t.png" alt="TryHackMe">
 </p>
 
-<p align="center">
-     <img src="https://share.creavite.co/66398d36a16df05af213e768.gif" width= "468" alt="1yc4n0rn0t">
-</p>
-
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/1yc4n0rn0t/count.svg">
-</p>
-
 
 <img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
 
