@@ -11,7 +11,7 @@
   <img src="https://profile-counter.glitch.me/1yc4n0rn0t/count.svg">
 </p>
 
-<script src="https://tryhackme.com/badge/1735886"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/1yc4n0rn0t.png" alt="TryHackMe">
 
 
 
