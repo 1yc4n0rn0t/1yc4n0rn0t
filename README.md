@@ -11,6 +11,10 @@
   <img src="https://profile-counter.glitch.me/1yc4n0rn0t/count.svg">
 </p>
 
+<script src="https://tryhackme.com/badge/1735886"></script>
+
+
+
 <img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
 
 ```markdown
