@@ -6,6 +6,8 @@
  <img src="https://tryhackme-badges.s3.amazonaws.com/1yc4n0rn0t.png" alt="TryHackMe">
 </p>
 
+ <script src="https://tryhackme.com/badge/1735886"></script>
+
 ## Programmer | Security Researcher | Tech Enthusiast 
 
 About Me:
