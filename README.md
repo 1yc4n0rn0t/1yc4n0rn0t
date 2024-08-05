@@ -15,7 +15,7 @@ About Me:
 - 🥼 **Collaborating on:** [Hack Nexus](https://blog.hacknex.us)
 - 📐 **I’m looking for help with:** Web Development
 - ❓ **Ask me about:** Linux
-- 📡 How to reach me: [Skill Nexus](https://skillnex.us/)
+- 📡 How to reach me: [Discord](https://skillnex.us/)
 
 
 ## Languages and Tools
