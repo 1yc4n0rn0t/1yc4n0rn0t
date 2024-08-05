@@ -12,10 +12,10 @@ About Me:
 
 - 🧪 **Currently working on:** A new CTF platform for Hackers and Security Pros
 - 🔬**Currently learning:** New ways to express myself through programming
-- 🥼 **Collaborating on:** [The Hacker Lounge](https://thehackerlounge.net)
+- 🥼 **Collaborating on:** [Hack Nexus](https://blog.hacknex.us)
 - 📐 **I’m looking for help with:** Web Development
 - ❓ **Ask me about:** Linux
-- 📡 How to reach me: [The Hacker Lounge](https://thehackerlounge.net/)
+- 📡 How to reach me: [Skill Nexus](https://skillnex.us/)
 
 
 ## Languages and Tools
