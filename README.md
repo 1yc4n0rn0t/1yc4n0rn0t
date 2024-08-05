@@ -3,7 +3,7 @@
 </p>
 
 <p align="center"> 
-<img src="https://tryhackme-badges.s3.amazonaws.com/1yc4n0rn0t.png" alt="TryHackMe">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/1yc4n0rn0t.png" alt="TryHackMe">
 </p>
 
 ## Programmer | Security Researcher | Tech Enthusiast 
