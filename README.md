@@ -2,8 +2,9 @@
   <img src="https://github.com/1yc4n0rn0t/1yc4n0rn0t/blob/main/lycan.jpg">
 </p>
 
-<p align="center"> 
- <img src="https://tryhackme-badges.s3.amazonaws.com/1yc4n0rn0t.png" alt="TryHackMe">
+<!-- TryHackMe Badge Script -->
+<p align="center">
+  <script src="https://tryhackme.com/badge/1735886"></script>
 </p>
 
 ## Programmer | Security Researcher | Tech Enthusiast 
@@ -17,11 +18,10 @@ About Me:
 - ❓ **Ask me about:** Linux
 - 📡 How to reach me: [Discord](https://skillnex.us/)
 
-
 ## Languages and Tools
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=29F718&random=false&width=435&lines=perceive+that+which+cannot+be+seen" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=29F718&random=false&width=435&lines=perceive+that+which+cannot+be+seen" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -32,12 +32,11 @@ About Me:
 
 ### ⚗️ Projects 
 
--  🔎 **Sintbox:** [sintbox](https://github.com/1yc4n0rn0t/sintbox)
--  🥧 **My Raspberrypi Build:** [DarthWRT](https://github.com/1yc4n0rn0t/DarthWRT)
--  🕸️**Web Scanner** [access](https://github.com/1yc4n0rn0t/access)
--  🕵️ **Web Enumeration** [Maginify](https://github.com/1yc4n0rn0t/magnify)
--  💻 **The Hacker Lounge:** [Langing Page](https://github.com/1yc4n0rn0t/THLLP)
-
+- 🔎 **Sintbox:** [sintbox](https://github.com/1yc4n0rn0t/sintbox)
+- 🥧 **My Raspberrypi Build:** [DarthWRT](https://github.com/1yc4n0rn0t/DarthWRT)
+- 🕸️ **Web Scanner:** [access](https://github.com/1yc4n0rn0t/access)
+- 🕵️ **Web Enumeration:** [Maginify](https://github.com/1yc4n0rn0t/magnify)
+- 💻 **The Hacker Lounge:** [Landing Page](https://github.com/1yc4n0rn0t/THLLP)
 
 ### 👍 Interests 
 
@@ -46,6 +45,6 @@ About Me:
 - 🧮 **Code**
 - 📗 **Books**
 
+---
 
-  ---
 
