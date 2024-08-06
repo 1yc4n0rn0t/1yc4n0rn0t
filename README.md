@@ -4,7 +4,7 @@
 
 <!-- TryHackMe Badge Script -->
 <p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/1yc4n0rn0t.png" alt="TryHackMe">
+<img src="https://raw.githubusercontent.com/1yc4n0rn0t/1yc4n0rn0t/master/assets/badge.png" alt="TryHackMe">
 </p>
 
 ## Programmer | Security Researcher | Tech Enthusiast 
