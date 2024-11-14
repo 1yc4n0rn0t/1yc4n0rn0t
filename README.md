@@ -24,7 +24,7 @@ About Me:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,react,nodejs,git,docker,py,anaconda,linux,bash,arch,kali,ubuntu,raspberrypi,windows,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,git,docker,py,bash,arch,kali,ubuntu,raspberrypi,windows" />
   </a>
 </p>
 
