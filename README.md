@@ -1,8 +1,6 @@
-
-
 <!-- TryHackMe Badge Script -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/1yc4n0rn0t/1yc4n0rn0t/master/assets/badge.png" alt="TryHackMe">
+  <img src="https://raw.githubusercontent.com/1yc4n0rn0t/1yc4n0rn0t/master/assets/badge.png" alt="TryHackMe">
 </p>
 
 ## Programmer | Security Researcher | Tech Enthusiast 
@@ -28,7 +26,11 @@ About Me:
   </a>
 </p>
 
-### ⚗️ Projects 
+### ⚗️ <span style="display: inline-block; vertical-align: middle;">Projects</span> 
+<p align="center">
+  <img src="https://example.com/your-image.png" alt="Image" style="height: 30px; vertical-align: middle; margin-left: 10px;" />
+</p>
+
 - 📘 **dougie** [dougie](https://1yc4n0rn0t.github.io/dougie/)
 - 🔎 **Sintbox:** [sintbox](https://github.com/1yc4n0rn0t/sintbox)
 - 🥧 **My Raspberrypi Build:** [DarthWRT](https://github.com/1yc4n0rn0t/DarthWRT)
@@ -45,5 +47,5 @@ About Me:
 
 ---
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1yc4n0rn0t&theme=github_dark&show_icons=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1yc4n0rn0t&theme=github_dark&show_icons=true" />
 </p>
