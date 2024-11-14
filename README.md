@@ -3,11 +3,11 @@
   <img src="https://raw.githubusercontent.com/1yc4n0rn0t/1yc4n0rn0t/master/assets/badge.png" alt="TryHackMe">
 </p>
 
-## Programmer | Security Researcher | Tech Enthusiast 
+# Programmer | Security Researcher | Tech Enthusiast 
 
-# About Me:
+##About Me:
 
-### <span style="display: inline-block; vertical-align: middle;">My Current Setup</span> 
+### <span style="display: inline-block; vertical-align: middle;">TOCC - Tactical Operations Command Center</span> 
 <p align="center">
   <img src="https://example.com/your-image.png" alt="Image" style="height: 30px; vertical-align: middle; margin-left: 10px;" />
 </p>
