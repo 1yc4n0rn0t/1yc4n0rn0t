@@ -5,11 +5,6 @@
 
 # Programmer | Security Researcher | Tech Enthusiast 
 
-## <span style="display: inline-block; vertical-align: middle;">TOCC - Tactical Operations Command Center</span> 
-<p align="center">
-  <img src="https://github.com/1yc4n0rn0t/1yc4n0rn0t/blob/main/mysetup.jpeg" alt="Image" style="height: 300px; vertical-align: middle; margin-left: 10px;" />
-</p>
-
 ## About Me:
 - 🧪 **Currently working on:** A new CTF platform for Hackers and Security Pros
 - 🔬**Currently learning:** New ways to express myself through programming
@@ -17,6 +12,11 @@
 - 📐 **I’m looking for help with:** Reverse Engineering
 - ❓ **Ask me about:** Virtualization
 - 📡 How to reach me: [Discord](https://skillnex.us/)
+
+  ## <span style="display: inline-block; vertical-align: middle;">TOCC - Tactical Operations Command Center</span> 
+<p align="center">
+  <img src="https://github.com/1yc4n0rn0t/1yc4n0rn0t/blob/main/mysetup.jpeg" alt="Image" style="height: 300px; vertical-align: middle; margin-left: 10px;" />
+</p>
 
 ## Languages and Tools
 
