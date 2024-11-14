@@ -12,8 +12,8 @@ About Me:
 - 🧪 **Currently working on:** A new CTF platform for Hackers and Security Pros
 - 🔬**Currently learning:** New ways to express myself through programming
 - 🥼 **Collaborating on:** [Hack Nexus](https://blog.hacknex.us)
-- 📐 **I’m looking for help with:** Web Development
-- ❓ **Ask me about:** Linux
+- 📐 **I’m looking for help with:** Reverse Engineering
+- ❓ **Ask me about:** Virtualization
 - 📡 How to reach me: [Discord](https://skillnex.us/)
 
 ## Languages and Tools
