@@ -5,11 +5,16 @@
 
 ## Programmer | Security Researcher | Tech Enthusiast 
 
-About Me:
+# About Me:
+
+### <span style="display: inline-block; vertical-align: middle;">My Current Setup</span> 
+<p align="center">
+  <img src="https://example.com/your-image.png" alt="Image" style="height: 30px; vertical-align: middle; margin-left: 10px;" />
+</p>
 
 - 🧪 **Currently working on:** A new CTF platform for Hackers and Security Pros
 - 🔬**Currently learning:** New ways to express myself through programming
-- 🥼 **Collaborating on:** [Hack Nexus](https://blog.hacknex.us)
+- 🥼 **Collaborating on:** [Hack Nexus](https://blog.hacknex.io)
 - 📐 **I’m looking for help with:** Reverse Engineering
 - ❓ **Ask me about:** Virtualization
 - 📡 How to reach me: [Discord](https://skillnex.us/)
@@ -26,11 +31,7 @@ About Me:
   </a>
 </p>
 
-### ⚗️ <span style="display: inline-block; vertical-align: middle;">Projects</span> 
-<p align="center">
-  <img src="https://example.com/your-image.png" alt="Image" style="height: 30px; vertical-align: middle; margin-left: 10px;" />
-</p>
-
+### ⚗️ Projects 
 - 📘 **dougie** [dougie](https://1yc4n0rn0t.github.io/dougie/)
 - 🔎 **Sintbox:** [sintbox](https://github.com/1yc4n0rn0t/sintbox)
 - 🥧 **My Raspberrypi Build:** [DarthWRT](https://github.com/1yc4n0rn0t/DarthWRT)
