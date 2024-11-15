@@ -3,6 +3,10 @@
   <img src="https://raw.githubusercontent.com/1yc4n0rn0t/1yc4n0rn0t/master/assets/badge.png" alt="TryHackMe">
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=29F718&random=false&width=435&lines=perceive+that+which+cannot+be+seen" alt="Typing SVG" /></a>
+</p>
+
 # Programmer | Security Researcher | Tech Enthusiast 
 
 ## About Me:
@@ -21,10 +25,6 @@
 - **credit to [K3YOMI](https://github.com/K3YOMI) image inspiration**
 
 ## Languages and Tools
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=29F718&random=false&width=435&lines=perceive+that+which+cannot+be+seen" alt="Typing SVG" /></a>
-</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
