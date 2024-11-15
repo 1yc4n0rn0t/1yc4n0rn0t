@@ -17,12 +17,12 @@
 - ❓ **Ask me about:** Virtualization
 - 📡 How to reach me: [Discord](https://skillnex.us/)
 
-## <span style="display: inline-block; vertical-align: middle;">TOCC - Tactical Operations Command Center</span> 
+<h2 align="center">TOCC - Tactical Operations Command Center</h2>
 <p align="center">
   <img src="https://github.com/1yc4n0rn0t/1yc4n0rn0t/blob/main/mysetup.jpeg" alt="Image" style="height: 350px; vertical-align: middle; margin-left: 10px;" />
 </p>
 
-- **credit to [K3YOMI](https://github.com/K3YOMI) image inspiration**
+<h3 align="center">Credit to <a href="https://github.com/K3YOMI">K3YOMI</a> for image inspiration</h3>
 
 ## Languages and Tools
 
