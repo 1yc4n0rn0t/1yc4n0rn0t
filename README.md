@@ -14,7 +14,7 @@
 - 🔬**Currently learning:** New ways to express myself through programming
 - 🥼 **Collaborating on:** [Hack Nexus](https://hacknexus.io)
 - 📐 **I’m looking for help with:** Reverse Engineering
-- ❓ **Ask me about:** Virtualization
+- ❓ **Ask me about:** Homelabs
 - 📡 How to reach me: [Discord](https://skillnex.us/)
 
 <h2 align="center">TOCC - Tactical Operations Command Center</h2>
