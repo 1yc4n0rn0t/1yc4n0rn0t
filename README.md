@@ -33,7 +33,7 @@
 </p>
 
 ### ⚗️ Projects 
-- 🚜  **sgitsteer**[sgitsteer](https://github.com/1yc4n0rn0t/sgitsteer)
+- 🚜  **sgitsteer** [sgitsteer](https://github.com/1yc4n0rn0t/sgitsteer)
 - 🛡️ **RepoCop** [RepoCop](https://github.com/1yc4n0rn0t/RepoCop)
 - 📨 **tcpweb** [tcpweb](https://github.com/1yc4n0rn0t/tcpweb)
 - 📘 **dougie** [dougie](https://1yc4n0rn0t.github.io/dougie/)
