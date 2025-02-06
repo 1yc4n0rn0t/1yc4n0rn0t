@@ -22,8 +22,6 @@
   <img src="https://github.com/1yc4n0rn0t/1yc4n0rn0t/blob/main/mysetup.jpeg" alt="Image" style="height: 350px; vertical-align: middle; margin-left: 10px;" />
 </p>
 
-<h3 align="center">Credit to <a href="https://github.com/K3YOMI">K3YOMI</a> for image inspiration</h3>
-
 ## Languages and Tools
 
 <p align="center">
