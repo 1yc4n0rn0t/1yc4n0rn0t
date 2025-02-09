@@ -10,12 +10,12 @@
 <h1 align="center">Developer | Homelabber | Tech Enthusiast</h1>
   
 ## About Me:
-- 🧪 **Currently working on:** A new CTF platform for Hackers and Security Pros
+- 🧪 **Currently working on:** A new Developer Marketplace
 - 🔬**Currently learning:** New ways to express myself through programming
-- 🥼 **Collaborating on:** [Hack Nexus](https://hacknexus.io)
+- 🥼 **Collaborating on:** [0nlypwns](https://0nlypwns.com)
 - 📐 **I’m looking for help with:** Reverse Engineering
 - ❓ **Ask me about:** My Homelab
-- 📡 How to reach me: [Discord](https://skillnex.us/)
+- 📡 How to reach me: [Links](https://lycan.lol)
 
 <h2 align="center">TOCC - Tactical Operations Command Center</h2>
 <p align="center">
