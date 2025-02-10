@@ -22,6 +22,26 @@
   <img src="https://github.com/1yc4n0rn0t/1yc4n0rn0t/blob/main/mysetup.jpeg" alt="Image" style="height: 350px; vertical-align: middle; margin-left: 10px;" />
 </p>
 
+```typescript
+// Tactical Command Center Overview
+const tacticalCommandCenter = () => {
+    const quote = "The computer is a medium of expression, and the hacker is an artist. — Jaron Lanier";
+    const info = `
+    Tactical Command Center Operations:
+    - 🖥️  Armed with cutting-edge hardware and software for maximum efficiency.
+    - 🌐  Seamlessly connected to a global network of resources and intelligence.
+    - 🔒  Fortified with advanced cybersecurity measures and ethical hacking protocols.
+    - 🚀 Launching open-source projects that push the boundaries of technology.
+    - 📡 Ready to engage with fellow hax0rs for knowledge sharing and project synergy.
+    `;
+
+    console.log(quote);
+    console.log(info);
+};
+
+tacticalCommandCenter();
+```
+
 ## Languages | Frameworks | Tools
 
 <p align="center">
