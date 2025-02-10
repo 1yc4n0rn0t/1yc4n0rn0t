@@ -22,11 +22,11 @@
   <img src="https://github.com/1yc4n0rn0t/1yc4n0rn0t/blob/main/mysetup.jpeg" alt="Image" style="height: 350px; vertical-align: middle; margin-left: 10px;" />
 </p>
 
-## Languages and Tools
+## Languages | Frameworks | Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,postgres,git,docker,kubernetes,bash,py,flask,ubuntu,kali,raspberrypi,windows,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mysql,prisma,ts,git,docker,kubernetes,nginx,bash,py,flask,linux,windows" />
   </a>
 </p>
 
