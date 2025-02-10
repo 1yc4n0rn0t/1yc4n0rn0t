@@ -28,17 +28,10 @@ const tacticalCommandCenter = () => {
     const quote = "The computer is a medium of expression, and the hacker is an artist. — Jaron Lanier";
     const info = `
     Tactical Command Center Operations:
-    - 🖥️  Armed with cutting-edge hardware and software for maximum efficiency.
-    - 🌐  Seamlessly connected to a global network of resources and intelligence.
-    - 🔒  Fortified with advanced cybersecurity measures and ethical hacking protocols.
-    - 🚀 Launching open-source projects that push the boundaries of technology.
-    - 📡 Ready to engage with fellow hax0rs for knowledge sharing and project synergy.
-    `;
-
+        print(Loaded)
     console.log(quote);
     console.log(info);
 };
-
 tacticalCommandCenter();
 ```
 
